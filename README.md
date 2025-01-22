@@ -116,5 +116,3 @@ For any questions, please reach out to:
 - **Author**: Juan Girelli
 - **Email**: juangirelli@gmail.com
 
----
-This project demonstrates the implementation of a robust back-end system for a social network. Feel free to customize and extend it further!
